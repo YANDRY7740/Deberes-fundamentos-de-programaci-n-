@@ -122,8 +122,8 @@ if __name__ == "__main__":
     biblioteca.añadir_libro(libro2)
 
     # Registrar usuarios
-    usuario1 = Usuario("Juan Pérez", 1)
-    usuario2 = Usuario("Ana García", 2)
+    usuario1 = Usuario("Yandry Silvestre", 1)
+    usuario2 = Usuario("Martha Sanchez", 2)
     biblioteca.registrar_usuario(usuario1)
     biblioteca.registrar_usuario(usuario2)
 
