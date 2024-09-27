@@ -38,3 +38,6 @@ if __name__ == "__main__":
     for animal in animales:
         print(animal.informacion())
         print(animal.hablar())
+
+
+
